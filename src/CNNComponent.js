@@ -4,7 +4,7 @@ export default class CNNComponent extends Component {
     render() {
         return (
             
-                <iframe src="https://jeet183.github.io/CNN-Digit-Recognition-Demo/"
+                <iframe src="http://handwritten-digit-demo.surge.sh/"
             frameborder="0" 
             marginheight="0" 
             marginwidth="0" 
